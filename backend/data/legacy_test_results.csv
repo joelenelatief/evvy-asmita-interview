@@ -1,0 +1,108 @@
+barcode,patient_name,patient_email,patient_dob,clinic_name,clinic_state,test_type,marker,result,status,sample_taken_at,results_completed_at
+1741ee534dec,Jane Doe,jane.doe@example.com,1991-03-12,Downtown Womens Clinic,TX,vaginal-health,lactobacillus,,in-progress,2026-02-25 09:00:00,
+1741ee534dec,Jane Doe,jane.doe@example.com,1991-03-12,Downtown Womens Clinic,TX,vaginal-health,gardnerella,,in-progress,2026-02-25 09:00:00,
+1741ee534dec,Jane Doe,jane.doe@example.com,1991-03-12,Downtown Womens Clinic,TX,vaginal-health,candida_albicans,,in-progress,2026-02-25 09:00:00,
+1741ee534dec,Jane Doe,jane.doe@example.com,1991-03-12,Downtown Womens Clinic,TX,vaginal-health,candida_glabrata,,in-progress,2026-02-25 09:00:00,
+1741ee534dec,Jane Doe,jane.doe@example.com,1991-03-12,Downtown Womens Clinic,TX,vaginal-health,atopobium,,in-progress,2026-02-25 09:00:00,
+1741ee534dec,Jane Doe,jane.doe@example.com,1991-03-12,Downtown Womens Clinic,TX,vaginal-health,megasphaera,,in-progress,2026-02-25 09:00:00,
+b32348797ef5,Maria Garcia,maria.garcia@example.com,1988-07-02,Bayview Health Partners,WA,sti,chlamydia,,in-progress,2026-02-15 09:00:00,
+b32348797ef5,Maria Garcia,maria.garcia@example.com,1988-07-02,Bayview Health Partners,WA,sti,gonorrhea,,in-progress,2026-02-15 09:00:00,
+b32348797ef5,Maria Garcia,maria.garcia@example.com,1988-07-02,Bayview Health Partners,WA,sti,trichomoniasis,,in-progress,2026-02-15 09:00:00,
+b32348797ef5,Maria Garcia,maria.garcia@example.com,1988-07-02,Bayview Health Partners,WA,sti,syphilis,,in-progress,2026-02-15 09:00:00,
+b32348797ef5,Maria Garcia,maria.garcia@example.com,1988-07-02,Bayview Health Partners,WA,sti,hiv,,in-progress,2026-02-15 09:00:00,
+b32348797ef5,Maria Garcia,maria.garcia@example.com,1988-07-02,Bayview Health Partners,WA,sti,hepatitis_b,,in-progress,2026-02-15 09:00:00,
+b32348797ef5,Maria Garcia,maria.garcia@example.com,1988-07-02,Bayview Health Partners,WA,sti,mycoplasma_genitalium,,in-progress,2026-02-15 09:00:00,
+9f2a7deadfcb,Alice Smith,alice.smith@example.com,1995-11-23,Evvy Telehealth,CA,vaginal-health,lactobacillus,not-detected,complete,2026-02-26 09:00:00,2026-03-04 09:00:00
+9f2a7deadfcb,Alice Smith,alice.smith@example.com,1995-11-23,Evvy Telehealth,CA,vaginal-health,gardnerella,moderate,complete,2026-02-26 09:00:00,2026-03-04 09:00:00
+9f2a7deadfcb,Alice Smith,alice.smith@example.com,1995-11-23,Evvy Telehealth,CA,vaginal-health,candida_albicans,not-detected,complete,2026-02-26 09:00:00,2026-03-04 09:00:00
+9f2a7deadfcb,Alice Smith,alice.smith@example.com,1995-11-23,Evvy Telehealth,CA,vaginal-health,candida_glabrata,low,complete,2026-02-26 09:00:00,2026-03-04 09:00:00
+9f2a7deadfcb,Alice Smith,alice.smith@example.com,1995-11-23,Evvy Telehealth,CA,vaginal-health,atopobium,high,complete,2026-02-26 09:00:00,2026-03-04 09:00:00
+9f2a7deadfcb,Alice Smith,alice.smith@example.com,1995-11-23,Evvy Telehealth,CA,vaginal-health,megasphaera,moderate,complete,2026-02-26 09:00:00,2026-03-04 09:00:00
+65ca4f3fc132,Priya Patel,priya.patel@example.com,1990-01-30,Evvy Telehealth,NY,vaginal-health,lactobacillus,high,complete,2026-03-03 09:00:00,2026-03-07 09:00:00
+65ca4f3fc132,Priya Patel,priya.patel@example.com,1990-01-30,Evvy Telehealth,NY,vaginal-health,gardnerella,high,complete,2026-03-03 09:00:00,2026-03-07 09:00:00
+65ca4f3fc132,Priya Patel,priya.patel@example.com,1990-01-30,Evvy Telehealth,NY,vaginal-health,candida_albicans,not-detected,complete,2026-03-03 09:00:00,2026-03-07 09:00:00
+65ca4f3fc132,Priya Patel,priya.patel@example.com,1990-01-30,Evvy Telehealth,NY,vaginal-health,candida_glabrata,high,complete,2026-03-03 09:00:00,2026-03-07 09:00:00
+65ca4f3fc132,Priya Patel,priya.patel@example.com,1990-01-30,Evvy Telehealth,NY,vaginal-health,atopobium,low,complete,2026-03-03 09:00:00,2026-03-07 09:00:00
+65ca4f3fc132,Priya Patel,priya.patel@example.com,1990-01-30,Evvy Telehealth,NY,vaginal-health,megasphaera,low,complete,2026-03-03 09:00:00,2026-03-07 09:00:00
+a4bf1e14ace0,Priya Patel,priya.patel@example.com,1990-01-30,Downtown Womens Clinic,TX,vaginal-health,lactobacillus,high,complete,2026-03-28 09:00:00,2026-04-03 09:00:00
+a4bf1e14ace0,Priya Patel,priya.patel@example.com,1990-01-30,Downtown Womens Clinic,TX,vaginal-health,gardnerella,not-detected,complete,2026-03-28 09:00:00,2026-04-03 09:00:00
+a4bf1e14ace0,Priya Patel,priya.patel@example.com,1990-01-30,Downtown Womens Clinic,TX,vaginal-health,candida_albicans,high,complete,2026-03-28 09:00:00,2026-04-03 09:00:00
+a4bf1e14ace0,Priya Patel,priya.patel@example.com,1990-01-30,Downtown Womens Clinic,TX,vaginal-health,candida_glabrata,low,complete,2026-03-28 09:00:00,2026-04-03 09:00:00
+a4bf1e14ace0,Priya Patel,priya.patel@example.com,1990-01-30,Downtown Womens Clinic,TX,vaginal-health,atopobium,low,complete,2026-03-28 09:00:00,2026-04-03 09:00:00
+a4bf1e14ace0,Priya Patel,priya.patel@example.com,1990-01-30,Downtown Womens Clinic,TX,vaginal-health,megasphaera,moderate,complete,2026-03-28 09:00:00,2026-04-03 09:00:00
+29e6c706aa14,Sam Rivera,sam.rivera@example.com,1993-05-18,Evvy Telehealth,NY,vaginal-health,lactobacillus,high,complete,2026-03-04 09:00:00,2026-03-07 09:00:00
+29e6c706aa14,Sam Rivera,sam.rivera@example.com,1993-05-18,Evvy Telehealth,NY,vaginal-health,gardnerella,not-detected,complete,2026-03-04 09:00:00,2026-03-07 09:00:00
+29e6c706aa14,Sam Rivera,sam.rivera@example.com,1993-05-18,Evvy Telehealth,NY,vaginal-health,candida_albicans,low,complete,2026-03-04 09:00:00,2026-03-07 09:00:00
+29e6c706aa14,Sam Rivera,sam.rivera@example.com,1993-05-18,Evvy Telehealth,NY,vaginal-health,candida_glabrata,not-detected,complete,2026-03-04 09:00:00,2026-03-07 09:00:00
+29e6c706aa14,Sam Rivera,sam.rivera@example.com,1993-05-18,Evvy Telehealth,NY,vaginal-health,atopobium,low,complete,2026-03-04 09:00:00,2026-03-07 09:00:00
+29e6c706aa14,Sam Rivera,sam.rivera@example.com,1993-05-18,Evvy Telehealth,NY,vaginal-health,megasphaera,moderate,complete,2026-03-04 09:00:00,2026-03-07 09:00:00
+7bfad9ddf4a6,Bob Johnson,bob.johnson@example.com,1985-09-09,Downtown Womens Clinic,TX,sti,chlamydia,negative,complete,2026-02-14 09:00:00,2026-02-17 09:00:00
+7bfad9ddf4a6,Bob Johnson,bob.johnson@example.com,1985-09-09,Downtown Womens Clinic,TX,sti,gonorrhea,negative,complete,2026-02-14 09:00:00,2026-02-17 09:00:00
+7bfad9ddf4a6,Bob Johnson,bob.johnson@example.com,1985-09-09,Downtown Womens Clinic,TX,sti,trichomoniasis,negative,complete,2026-02-14 09:00:00,2026-02-17 09:00:00
+7bfad9ddf4a6,Bob Johnson,bob.johnson@example.com,1985-09-09,Downtown Womens Clinic,TX,sti,syphilis,negative,complete,2026-02-14 09:00:00,2026-02-17 09:00:00
+7bfad9ddf4a6,Bob Johnson,bob.johnson@example.com,1985-09-09,Downtown Womens Clinic,TX,sti,hiv,negative,complete,2026-02-14 09:00:00,2026-02-17 09:00:00
+7bfad9ddf4a6,Bob Johnson,bob.johnson@example.com,1985-09-09,Downtown Womens Clinic,TX,sti,hepatitis_b,negative,complete,2026-02-14 09:00:00,2026-02-17 09:00:00
+7bfad9ddf4a6,Bob Johnson,bob.johnson@example.com,1985-09-09,Downtown Womens Clinic,TX,sti,mycoplasma_genitalium,negative,complete,2026-02-14 09:00:00,2026-02-17 09:00:00
+3c4aff096015,Bob Johnson,bob.johnson@example.com,1985-09-09,Evvy Telehealth,CA,vaginal-health,lactobacillus,not-detected,complete,2026-04-04 09:00:00,2026-04-08 09:00:00
+3c4aff096015,Bob Johnson,bob.johnson@example.com,1985-09-09,Evvy Telehealth,CA,vaginal-health,gardnerella,low,complete,2026-04-04 09:00:00,2026-04-08 09:00:00
+3c4aff096015,Bob Johnson,bob.johnson@example.com,1985-09-09,Evvy Telehealth,CA,vaginal-health,candida_albicans,high,complete,2026-04-04 09:00:00,2026-04-08 09:00:00
+3c4aff096015,Bob Johnson,bob.johnson@example.com,1985-09-09,Evvy Telehealth,CA,vaginal-health,candida_glabrata,moderate,complete,2026-04-04 09:00:00,2026-04-08 09:00:00
+3c4aff096015,Bob Johnson,bob.johnson@example.com,1985-09-09,Evvy Telehealth,CA,vaginal-health,atopobium,low,complete,2026-04-04 09:00:00,2026-04-08 09:00:00
+3c4aff096015,Bob Johnson,bob.johnson@example.com,1985-09-09,Evvy Telehealth,CA,vaginal-health,megasphaera,moderate,complete,2026-04-04 09:00:00,2026-04-08 09:00:00
+4298efcb8f14,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,lactobacillus,low,complete,2026-02-24 09:00:00,2026-02-27 09:00:00
+4298efcb8f14,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,gardnerella,not-detected,complete,2026-02-24 09:00:00,2026-02-27 09:00:00
+4298efcb8f14,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,candida_albicans,not-detected,complete,2026-02-24 09:00:00,2026-02-27 09:00:00
+4298efcb8f14,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,candida_glabrata,low,complete,2026-02-24 09:00:00,2026-02-27 09:00:00
+4298efcb8f14,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,atopobium,moderate,complete,2026-02-24 09:00:00,2026-02-27 09:00:00
+4298efcb8f14,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,megasphaera,moderate,complete,2026-02-24 09:00:00,2026-02-27 09:00:00
+fe91d49d2e51,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,lactobacillus,moderate,complete,2026-03-27 09:00:00,2026-03-29 09:00:00
+fe91d49d2e51,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,gardnerella,moderate,complete,2026-03-27 09:00:00,2026-03-29 09:00:00
+fe91d49d2e51,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,candida_albicans,not-detected,complete,2026-03-27 09:00:00,2026-03-29 09:00:00
+fe91d49d2e51,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,candida_glabrata,high,complete,2026-03-27 09:00:00,2026-03-29 09:00:00
+fe91d49d2e51,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,atopobium,not-detected,complete,2026-03-27 09:00:00,2026-03-29 09:00:00
+fe91d49d2e51,Grace Adams,grace.adams@example.com,1998-12-01,Bayview Health Partners,WA,vaginal-health,megasphaera,not-detected,complete,2026-03-27 09:00:00,2026-03-29 09:00:00
+1d0e0bd152b5,Wei Chen,wei.chen@example.com,1992-06-21,Downtown Womens Clinic,TX,vaginal-health,lactobacillus,high,complete,2026-04-19 09:00:00,2026-04-21 09:00:00
+1d0e0bd152b5,Wei Chen,wei.chen@example.com,1992-06-21,Downtown Womens Clinic,TX,vaginal-health,gardnerella,low,complete,2026-04-19 09:00:00,2026-04-21 09:00:00
+1d0e0bd152b5,Wei Chen,wei.chen@example.com,1992-06-21,Downtown Womens Clinic,TX,vaginal-health,candida_albicans,low,complete,2026-04-19 09:00:00,2026-04-21 09:00:00
+1d0e0bd152b5,Wei Chen,wei.chen@example.com,1992-06-21,Downtown Womens Clinic,TX,vaginal-health,candida_glabrata,high,complete,2026-04-19 09:00:00,2026-04-21 09:00:00
+1d0e0bd152b5,Wei Chen,wei.chen@example.com,1992-06-21,Downtown Womens Clinic,TX,vaginal-health,atopobium,low,complete,2026-04-19 09:00:00,2026-04-21 09:00:00
+1d0e0bd152b5,Wei Chen,wei.chen@example.com,1992-06-21,Downtown Womens Clinic,TX,vaginal-health,megasphaera,not-detected,complete,2026-04-19 09:00:00,2026-04-21 09:00:00
+6c207268431a,Wei Chen,wei.chen@example.com,1992-06-21,Bayview Health Partners,WA,sti,chlamydia,negative,complete,2026-05-09 09:00:00,2026-05-13 09:00:00
+6c207268431a,Wei Chen,wei.chen@example.com,1992-06-21,Bayview Health Partners,WA,sti,gonorrhea,negative,complete,2026-05-09 09:00:00,2026-05-13 09:00:00
+6c207268431a,Wei Chen,wei.chen@example.com,1992-06-21,Bayview Health Partners,WA,sti,trichomoniasis,negative,complete,2026-05-09 09:00:00,2026-05-13 09:00:00
+6c207268431a,Wei Chen,wei.chen@example.com,1992-06-21,Bayview Health Partners,WA,sti,syphilis,positive,complete,2026-05-09 09:00:00,2026-05-13 09:00:00
+6c207268431a,Wei Chen,wei.chen@example.com,1992-06-21,Bayview Health Partners,WA,sti,hiv,negative,complete,2026-05-09 09:00:00,2026-05-13 09:00:00
+6c207268431a,Wei Chen,wei.chen@example.com,1992-06-21,Bayview Health Partners,WA,sti,hepatitis_b,negative,complete,2026-05-09 09:00:00,2026-05-13 09:00:00
+6c207268431a,Wei Chen,wei.chen@example.com,1992-06-21,Bayview Health Partners,WA,sti,mycoplasma_genitalium,negative,complete,2026-05-09 09:00:00,2026-05-13 09:00:00
+c08ff741b6bb,Wei Chen,wei.chen@example.com,1992-06-21,Evvy Telehealth,NY,sti,chlamydia,negative,complete,2026-07-15 09:00:00,2026-07-21 09:00:00
+c08ff741b6bb,Wei Chen,wei.chen@example.com,1992-06-21,Evvy Telehealth,NY,sti,gonorrhea,negative,complete,2026-07-15 09:00:00,2026-07-21 09:00:00
+c08ff741b6bb,Wei Chen,wei.chen@example.com,1992-06-21,Evvy Telehealth,NY,sti,trichomoniasis,negative,complete,2026-07-15 09:00:00,2026-07-21 09:00:00
+c08ff741b6bb,Wei Chen,wei.chen@example.com,1992-06-21,Evvy Telehealth,NY,sti,syphilis,negative,complete,2026-07-15 09:00:00,2026-07-21 09:00:00
+c08ff741b6bb,Wei Chen,wei.chen@example.com,1992-06-21,Evvy Telehealth,NY,sti,hiv,negative,complete,2026-07-15 09:00:00,2026-07-21 09:00:00
+c08ff741b6bb,Wei Chen,wei.chen@example.com,1992-06-21,Evvy Telehealth,NY,sti,hepatitis_b,positive,complete,2026-07-15 09:00:00,2026-07-21 09:00:00
+c08ff741b6bb,Wei Chen,wei.chen@example.com,1992-06-21,Evvy Telehealth,NY,sti,mycoplasma_genitalium,negative,complete,2026-07-15 09:00:00,2026-07-21 09:00:00
+6ad6c75b6fe8,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,NY,sti,chlamydia,,in-progress,2026-02-11 09:00:00,
+6ad6c75b6fe8,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,NY,sti,gonorrhea,,in-progress,2026-02-11 09:00:00,
+6ad6c75b6fe8,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,NY,sti,trichomoniasis,,in-progress,2026-02-11 09:00:00,
+6ad6c75b6fe8,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,NY,sti,syphilis,,in-progress,2026-02-11 09:00:00,
+6ad6c75b6fe8,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,NY,sti,hiv,,in-progress,2026-02-11 09:00:00,
+6ad6c75b6fe8,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,NY,sti,hepatitis_b,,in-progress,2026-02-11 09:00:00,
+6ad6c75b6fe8,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,NY,sti,mycoplasma_genitalium,,in-progress,2026-02-11 09:00:00,
+eb875e5b8d61,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,CA,vaginal-health,lactobacillus,not-detected,complete,2026-05-10 09:00:00,2026-05-13 09:00:00
+eb875e5b8d61,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,CA,vaginal-health,gardnerella,moderate,complete,2026-05-10 09:00:00,2026-05-13 09:00:00
+eb875e5b8d61,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,CA,vaginal-health,candida_albicans,low,complete,2026-05-10 09:00:00,2026-05-13 09:00:00
+eb875e5b8d61,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,CA,vaginal-health,candida_glabrata,not-detected,complete,2026-05-10 09:00:00,2026-05-13 09:00:00
+eb875e5b8d61,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,CA,vaginal-health,atopobium,moderate,complete,2026-05-10 09:00:00,2026-05-13 09:00:00
+eb875e5b8d61,Fatima Noor,fatima.noor@example.com,1996-02-14,Evvy Telehealth,CA,vaginal-health,megasphaera,moderate,complete,2026-05-10 09:00:00,2026-05-13 09:00:00
+b9c4a4c53355,Eve Jackson,eve.jackson@example.com,1989-08-08,Downtown Womens Clinic,TX,vaginal-health,lactobacillus,high,complete,2026-04-03 09:00:00,2026-04-08 09:00:00
+b9c4a4c53355,Eve Jackson,eve.jackson@example.com,1989-08-08,Downtown Womens Clinic,TX,vaginal-health,gardnerella,moderate,complete,2026-04-03 09:00:00,2026-04-08 09:00:00
+b9c4a4c53355,Eve Jackson,eve.jackson@example.com,1989-08-08,Downtown Womens Clinic,TX,vaginal-health,candida_albicans,moderate,complete,2026-04-03 09:00:00,2026-04-08 09:00:00
+b9c4a4c53355,Eve Jackson,eve.jackson@example.com,1989-08-08,Downtown Womens Clinic,TX,vaginal-health,candida_glabrata,high,complete,2026-04-03 09:00:00,2026-04-08 09:00:00
+b9c4a4c53355,Eve Jackson,eve.jackson@example.com,1989-08-08,Downtown Womens Clinic,TX,vaginal-health,atopobium,low,complete,2026-04-03 09:00:00,2026-04-08 09:00:00
+b9c4a4c53355,Eve Jackson,eve.jackson@example.com,1989-08-08,Downtown Womens Clinic,TX,vaginal-health,megasphaera,high,complete,2026-04-03 09:00:00,2026-04-08 09:00:00
+499b9f702793,Eve Jackson,eve.jackson@example.com,1989-08-08,Evvy Telehealth,NY,vaginal-health,lactobacillus,,in-progress,2026-05-21 09:00:00,
+499b9f702793,Eve Jackson,eve.jackson@example.com,1989-08-08,Evvy Telehealth,NY,vaginal-health,gardnerella,,in-progress,2026-05-21 09:00:00,
+499b9f702793,Eve Jackson,eve.jackson@example.com,1989-08-08,Evvy Telehealth,NY,vaginal-health,candida_albicans,,in-progress,2026-05-21 09:00:00,
+499b9f702793,Eve Jackson,eve.jackson@example.com,1989-08-08,Evvy Telehealth,NY,vaginal-health,candida_glabrata,,in-progress,2026-05-21 09:00:00,
+499b9f702793,Eve Jackson,eve.jackson@example.com,1989-08-08,Evvy Telehealth,NY,vaginal-health,atopobium,,in-progress,2026-05-21 09:00:00,
+499b9f702793,Eve Jackson,eve.jackson@example.com,1989-08-08,Evvy Telehealth,NY,vaginal-health,megasphaera,,in-progress,2026-05-21 09:00:00,

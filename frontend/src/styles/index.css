@@ -1,0 +1,20 @@
+
+html, body, #root{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+[disabled] {
+  opacity: 0.75 !important;
+  pointer-events: none !important;
+}
+
+a.underline {
+	text-decoration: underline;
+}
+
+.custom-class {
+	color: red;
+}

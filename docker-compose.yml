@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:16
+    env_file: ./backend/app/.env
+    volumes:
+      - postgres-starter-vol:/var/lib/postgresql/data
+
+  django:
+    build: ./backend
+    command: bash ./entrypoint.sh
+    volumes:
+      - ./backend:/home/docker/backend
+    env_file: ./backend/app/.env
+    ports:
+      - 8001:8000
+    depends_on:
+      - db
+
+
+volumes:
+  postgres-starter-vol:

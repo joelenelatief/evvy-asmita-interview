@@ -1,0 +1,101 @@
+barcode,patient_email,taxon,relative_abundance_pct
+9f2a7deadfcb,alice.smith@example.com,Lactobacillus crispatus,22.62
+9f2a7deadfcb,alice.smith@example.com,Lactobacillus iners,16.36
+9f2a7deadfcb,alice.smith@example.com,Lactobacillus jensenii,10.03
+9f2a7deadfcb,alice.smith@example.com,Gardnerella vaginalis,13.68
+9f2a7deadfcb,alice.smith@example.com,Atopobium vaginae,9.40
+9f2a7deadfcb,alice.smith@example.com,Megasphaera spp.,6.34
+9f2a7deadfcb,alice.smith@example.com,Prevotella spp.,5.07
+9f2a7deadfcb,alice.smith@example.com,Sneathia spp.,4.62
+9f2a7deadfcb,alice.smith@example.com,Streptococcus spp.,4.15
+9f2a7deadfcb,alice.smith@example.com,Other/unclassified,7.73
+65ca4f3fc132,priya.patel@example.com,Lactobacillus crispatus,2.93
+65ca4f3fc132,priya.patel@example.com,Lactobacillus iners,4.47
+65ca4f3fc132,priya.patel@example.com,Lactobacillus jensenii,1.89
+65ca4f3fc132,priya.patel@example.com,Gardnerella vaginalis,41.35
+65ca4f3fc132,priya.patel@example.com,Atopobium vaginae,10.71
+65ca4f3fc132,priya.patel@example.com,Megasphaera spp.,9.88
+65ca4f3fc132,priya.patel@example.com,Prevotella spp.,10.63
+65ca4f3fc132,priya.patel@example.com,Sneathia spp.,7.52
+65ca4f3fc132,priya.patel@example.com,Streptococcus spp.,4.13
+65ca4f3fc132,priya.patel@example.com,Other/unclassified,6.49
+a4bf1e14ace0,priya.patel@example.com,Lactobacillus crispatus,62.34
+a4bf1e14ace0,priya.patel@example.com,Lactobacillus iners,12.71
+a4bf1e14ace0,priya.patel@example.com,Lactobacillus jensenii,11.79
+a4bf1e14ace0,priya.patel@example.com,Gardnerella vaginalis,3.39
+a4bf1e14ace0,priya.patel@example.com,Atopobium vaginae,1.53
+a4bf1e14ace0,priya.patel@example.com,Megasphaera spp.,0.75
+a4bf1e14ace0,priya.patel@example.com,Prevotella spp.,1.72
+a4bf1e14ace0,priya.patel@example.com,Sneathia spp.,1.15
+a4bf1e14ace0,priya.patel@example.com,Streptococcus spp.,1.57
+a4bf1e14ace0,priya.patel@example.com,Other/unclassified,3.05
+29e6c706aa14,sam.rivera@example.com,Lactobacillus crispatus,57.38
+29e6c706aa14,sam.rivera@example.com,Lactobacillus iners,17.60
+29e6c706aa14,sam.rivera@example.com,Lactobacillus jensenii,10.89
+29e6c706aa14,sam.rivera@example.com,Gardnerella vaginalis,3.12
+29e6c706aa14,sam.rivera@example.com,Atopobium vaginae,1.56
+29e6c706aa14,sam.rivera@example.com,Megasphaera spp.,0.87
+29e6c706aa14,sam.rivera@example.com,Prevotella spp.,2.35
+29e6c706aa14,sam.rivera@example.com,Sneathia spp.,1.01
+29e6c706aa14,sam.rivera@example.com,Streptococcus spp.,1.88
+29e6c706aa14,sam.rivera@example.com,Other/unclassified,3.34
+3c4aff096015,bob.johnson@example.com,Lactobacillus crispatus,21.30
+3c4aff096015,bob.johnson@example.com,Lactobacillus iners,15.78
+3c4aff096015,bob.johnson@example.com,Lactobacillus jensenii,9.38
+3c4aff096015,bob.johnson@example.com,Gardnerella vaginalis,17.84
+3c4aff096015,bob.johnson@example.com,Atopobium vaginae,6.75
+3c4aff096015,bob.johnson@example.com,Megasphaera spp.,6.24
+3c4aff096015,bob.johnson@example.com,Prevotella spp.,6.07
+3c4aff096015,bob.johnson@example.com,Sneathia spp.,4.88
+3c4aff096015,bob.johnson@example.com,Streptococcus spp.,5.67
+3c4aff096015,bob.johnson@example.com,Other/unclassified,6.09
+4298efcb8f14,grace.adams@example.com,Lactobacillus crispatus,62.55
+4298efcb8f14,grace.adams@example.com,Lactobacillus iners,13.47
+4298efcb8f14,grace.adams@example.com,Lactobacillus jensenii,9.23
+4298efcb8f14,grace.adams@example.com,Gardnerella vaginalis,4.48
+4298efcb8f14,grace.adams@example.com,Atopobium vaginae,1.54
+4298efcb8f14,grace.adams@example.com,Megasphaera spp.,0.96
+4298efcb8f14,grace.adams@example.com,Prevotella spp.,1.41
+4298efcb8f14,grace.adams@example.com,Sneathia spp.,1.07
+4298efcb8f14,grace.adams@example.com,Streptococcus spp.,2.25
+4298efcb8f14,grace.adams@example.com,Other/unclassified,3.04
+fe91d49d2e51,grace.adams@example.com,Lactobacillus crispatus,4.58
+fe91d49d2e51,grace.adams@example.com,Lactobacillus iners,4.98
+fe91d49d2e51,grace.adams@example.com,Lactobacillus jensenii,2.09
+fe91d49d2e51,grace.adams@example.com,Gardnerella vaginalis,34.54
+fe91d49d2e51,grace.adams@example.com,Atopobium vaginae,13.70
+fe91d49d2e51,grace.adams@example.com,Megasphaera spp.,10.91
+fe91d49d2e51,grace.adams@example.com,Prevotella spp.,11.24
+fe91d49d2e51,grace.adams@example.com,Sneathia spp.,7.10
+fe91d49d2e51,grace.adams@example.com,Streptococcus spp.,3.68
+fe91d49d2e51,grace.adams@example.com,Other/unclassified,7.18
+1d0e0bd152b5,wei.chen@example.com,Lactobacillus crispatus,16.04
+1d0e0bd152b5,wei.chen@example.com,Lactobacillus iners,19.98
+1d0e0bd152b5,wei.chen@example.com,Lactobacillus jensenii,8.62
+1d0e0bd152b5,wei.chen@example.com,Gardnerella vaginalis,20.55
+1d0e0bd152b5,wei.chen@example.com,Atopobium vaginae,9.45
+1d0e0bd152b5,wei.chen@example.com,Megasphaera spp.,5.17
+1d0e0bd152b5,wei.chen@example.com,Prevotella spp.,5.53
+1d0e0bd152b5,wei.chen@example.com,Sneathia spp.,4.36
+1d0e0bd152b5,wei.chen@example.com,Streptococcus spp.,3.53
+1d0e0bd152b5,wei.chen@example.com,Other/unclassified,6.77
+eb875e5b8d61,fatima.noor@example.com,Lactobacillus crispatus,3.29
+eb875e5b8d61,fatima.noor@example.com,Lactobacillus iners,4.74
+eb875e5b8d61,fatima.noor@example.com,Lactobacillus jensenii,1.51
+eb875e5b8d61,fatima.noor@example.com,Gardnerella vaginalis,41.69
+eb875e5b8d61,fatima.noor@example.com,Atopobium vaginae,11.17
+eb875e5b8d61,fatima.noor@example.com,Megasphaera spp.,10.45
+eb875e5b8d61,fatima.noor@example.com,Prevotella spp.,9.59
+eb875e5b8d61,fatima.noor@example.com,Sneathia spp.,7.53
+eb875e5b8d61,fatima.noor@example.com,Streptococcus spp.,3.07
+eb875e5b8d61,fatima.noor@example.com,Other/unclassified,6.96
+b9c4a4c53355,eve.jackson@example.com,Lactobacillus crispatus,50.93
+b9c4a4c53355,eve.jackson@example.com,Lactobacillus iners,21.90
+b9c4a4c53355,eve.jackson@example.com,Lactobacillus jensenii,11.79
+b9c4a4c53355,eve.jackson@example.com,Gardnerella vaginalis,4.82
+b9c4a4c53355,eve.jackson@example.com,Atopobium vaginae,1.72
+b9c4a4c53355,eve.jackson@example.com,Megasphaera spp.,0.94
+b9c4a4c53355,eve.jackson@example.com,Prevotella spp.,1.81
+b9c4a4c53355,eve.jackson@example.com,Sneathia spp.,1.22
+b9c4a4c53355,eve.jackson@example.com,Streptococcus spp.,2.52
+b9c4a4c53355,eve.jackson@example.com,Other/unclassified,2.35
